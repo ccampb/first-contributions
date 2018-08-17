@@ -5260,6 +5260,7 @@
 - [Cintia Nunes](https://github.com/Cintiaa)
 - [Prakhar Dubey](https://github.com/Starlight3)
 - [Brenton L](https://github.com/LalondeBrenton)
+- [Vegso] (https://github.com/ccampb)
 - [Andrés Serna](https://github.com/andres0107)
 - [Sebastian Carter](https://github.com/sebastiancarter)
 - [Renato Barbosa Candido](https://github.com/r144)
